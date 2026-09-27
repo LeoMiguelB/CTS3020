@@ -7,5 +7,5 @@ Hey, my name is Leo. Welcome to my blog where I talk about digital storytelling.
 ### Recent Posts
 
 - [Post 1: The Panama Papers](blog-1.md) — An analysis of how interactive database microcontent empowers audiences as co-creators to expose political corruption.
-- [Post 2](blog-2.md)
+- [Post 2: Demystifying Dark Money Through Audio](blog-2.md) — An analysis of how the audio medium and transmedia storytelling can simplify complex financial systems like offshore shell companies.
 - [Post 3](blog-3.md)
